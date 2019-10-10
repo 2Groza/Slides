@@ -1,0 +1,16 @@
+\BOOKMARK [2][]{Outline0.1}{Introduction to Deep RL}{}% 1
+\BOOKMARK [3][]{Outline0.1.1.4}{Learning Paradigm}{Outline0.1}% 2
+\BOOKMARK [3][]{Outline0.1.2.6}{SOTA Algorithms}{Outline0.1}% 3
+\BOOKMARK [3][]{Outline0.1.3.7}{Benchmark Tasks}{Outline0.1}% 4
+\BOOKMARK [2][]{Outline0.2}{Policy Continuation with Hindsight Inverse Dynamics}{}% 5
+\BOOKMARK [3][]{Outline0.2.1.9}{Problem Setting}{Outline0.2}% 6
+\BOOKMARK [3][]{Outline0.2.2.10}{Policy Continuation}{Outline0.2}% 7
+\BOOKMARK [3][]{Outline0.2.3.12}{Hindsight Inverse Dynamics}{Outline0.2}% 8
+\BOOKMARK [3][]{Outline0.2.4.13}{Empirical Results}{Outline0.2}% 9
+\BOOKMARK [2][]{Outline0.3}{Policy Evolution with Hindsight Inverse Dynamics}{}% 10
+\BOOKMARK [3][]{Outline0.3.1.15}{Introduction}{Outline0.3}% 11
+\BOOKMARK [3][]{Outline0.3.2.16}{Ornstein-Uhlenbeck Process Perspective}{Outline0.3}% 12
+\BOOKMARK [2][]{Outline0.4}{Learning with Social Influences}{}% 13
+\BOOKMARK [3][]{Outline0.4.1.21}{Introduction}{Outline0.4}% 14
+\BOOKMARK [3][]{Outline0.4.2.23}{Solving Constrained Optimization Problems}{Outline0.4}% 15
+\BOOKMARK [3][]{Outline0.4.3.29}{Empirical Results}{Outline0.4}% 16
