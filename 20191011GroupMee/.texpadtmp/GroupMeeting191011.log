@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  10 OCT 2019 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.26)  10 OCT 2019 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -576,10 +576,6 @@ Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemebeaver.sty
 Package: beamercolorthemebeaver 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/themes/theme/beamerthemePittsburgh.sty
-Package: beamerthemePittsburgh 2010/06/17  (rcs-revision d02a7cf4d8ae)
- (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemecircles.sty
-Package: beamerinnerthemecircles 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )) (/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen188
@@ -606,8 +602,7 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldsymbols=\mathgroup8
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/indentfirst.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip57
@@ -619,7 +614,8 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 \f@ncyO@erf=\skip63
 \f@ncyO@olf=\skip64
 \f@ncyO@orf=\skip65
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/media9/media9.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/media9/media9.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
@@ -826,8 +822,8 @@ Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
 \pgf@nodesepend=\dimen233
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
  (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen256
@@ -1045,7 +1041,7 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [3
 
-] <figures/Prof.pdf, id=206, 765.86125pt x 404.51125pt>
+] <figures/Prof.pdf, id=212, 765.86125pt x 404.51125pt>
 File: figures/Prof.pdf Graphic file (type pdf)
  <use figures/Prof.pdf>
 Package pdftex.def Info: figures/Prof.pdf used on input line 123.
@@ -1058,15 +1054,6 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 [4
 
  <./figures/Prof.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 137.
-LaTeX Font Info:    No file OMScmss.fd. on input line 137.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 137.
-
-
 Overfull \hbox (1.53893pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1080,17 +1067,17 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [6
 
-] <figures/mariobro.jpeg, id=339, 1042.89626pt x 777.90625pt>
+] <figures/mariobro.jpeg, id=344, 1042.89626pt x 777.90625pt>
 File: figures/mariobro.jpeg Graphic file (type jpg)
  <use figures/mariobro.jpeg>
 Package pdftex.def Info: figures/mariobro.jpeg used on input line 188.
 (pdftex.def)             Requested size: 93.95122pt x 70.06789pt.
- <figures/handreach.jpg, id=340, 501.875pt x 501.875pt>
+ <figures/handreach.jpg, id=345, 501.875pt x 501.875pt>
 File: figures/handreach.jpg Graphic file (type jpg)
  <use figures/handreach.jpg>
 Package pdftex.def Info: figures/handreach.jpg used on input line 188.
 (pdftex.def)             Requested size: 72.26999pt x 72.2684pt.
- <figures/locomotion.png, id=341, 529.98pt x 523.9575pt>
+ <figures/locomotion.png, id=346, 529.98pt x 523.9575pt>
 File: figures/locomotion.png Graphic file (type png)
  <use figures/locomotion.png>
 Package pdftex.def Info: figures/locomotion.png used on input line 188.
@@ -1109,7 +1096,7 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [8
 
-] <figures/handenvs.jpeg, id=404, 1304.875pt x 230.8625pt>
+] <figures/handenvs.jpeg, id=409, 1304.875pt x 230.8625pt>
 File: figures/handenvs.jpeg Graphic file (type jpg)
  <use figures/handenvs.jpeg>
 Package pdftex.def Info: figures/handenvs.jpeg used on input line 207.
@@ -1143,12 +1130,12 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [11
 
-] <figures/1step.pdf, id=492, 519.9425pt x 230.8625pt>
+] <figures/1step.pdf, id=497, 519.9425pt x 230.8625pt>
 File: figures/1step.pdf Graphic file (type pdf)
  <use figures/1step.pdf>
 Package pdftex.def Info: figures/1step.pdf used on input line 292.
 (pdftex.def)             Requested size: 137.31255pt x 60.9669pt.
- <figures/kstep.pdf, id=493, 519.9425pt x 230.8625pt>
+ <figures/kstep.pdf, id=498, 519.9425pt x 230.8625pt>
 File: figures/kstep.pdf Graphic file (type pdf)
  <use figures/kstep.pdf>
 Package pdftex.def Info: figures/kstep.pdf used on input line 292.
@@ -1160,22 +1147,22 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [12
 
- <./figures/1step.pdf> <./figures/kstep.pdf>] <figures/FR_result.pdf, id=567, 433.62pt x 289.08pt>
+ <./figures/1step.pdf> <./figures/kstep.pdf>] <figures/FR_result.pdf, id=573, 433.62pt x 289.08pt>
 File: figures/FR_result.pdf Graphic file (type pdf)
  <use figures/FR_result.pdf>
 Package pdftex.def Info: figures/FR_result.pdf used on input line 337.
 (pdftex.def)             Requested size: 115.63243pt x 77.08662pt.
- <figures/FR_succrate.pdf, id=568, 433.62pt x 289.08pt>
+ <figures/FR_succrate.pdf, id=574, 433.62pt x 289.08pt>
 File: figures/FR_succrate.pdf Graphic file (type pdf)
  <use figures/FR_succrate.pdf>
 Package pdftex.def Info: figures/FR_succrate.pdf used on input line 337.
 (pdftex.def)             Requested size: 115.63243pt x 77.08662pt.
- <figures/dm1.pdf, id=569, 320.06404pt x 320.48312pt>
+ <figures/dm1.pdf, id=575, 320.06404pt x 320.48312pt>
 File: figures/dm1.pdf Graphic file (type pdf)
  <use figures/dm1.pdf>
 Package pdftex.def Info: figures/dm1.pdf used on input line 337.
 (pdftex.def)             Requested size: 65.04256pt x 65.1273pt.
- <figures/GW_results.pdf, id=570, 433.62pt x 289.08pt>
+ <figures/GW_results.pdf, id=576, 433.62pt x 289.08pt>
 File: figures/GW_results.pdf Graphic file (type pdf)
  <use figures/GW_results.pdf>
 Package pdftex.def Info: figures/GW_results.pdf used on input line 337.
@@ -1204,12 +1191,12 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [14
 
-] <figures/gridmap.pdf, id=760, 259.97125pt x 275.0275pt>
+] <figures/gridmap.pdf, id=766, 259.97125pt x 275.0275pt>
 File: figures/gridmap.pdf Graphic file (type pdf)
  <use figures/gridmap.pdf>
 Package pdftex.def Info: figures/gridmap.pdf used on input line 359.
 (pdftex.def)             Requested size: 79.49744pt x 84.09938pt.
- <figures/Max_K.pdf, id=761, 433.62pt x 289.08pt>
+ <figures/Max_K.pdf, id=767, 433.62pt x 289.08pt>
 File: figures/Max_K.pdf Graphic file (type pdf)
  <use figures/Max_K.pdf>
 Package pdftex.def Info: figures/Max_K.pdf used on input line 359.
@@ -1324,7 +1311,7 @@ Overfull \hbox (1.53893pt too wide) has occurred while \output is active
 
 [28
 
-] <figures/v8.pdf, id=1244, 1239.18965pt x 311.4837pt>
+] <figures/v8.pdf, id=1250, 1239.18965pt x 311.4837pt>
 File: figures/v8.pdf Graphic file (type pdf)
  <use figures/v8.pdf>
 Package pdftex.def Info: figures/v8.pdf used on input line 683.
@@ -1366,24 +1353,21 @@ Package rerunfilecheck Info: File `GroupMeeting191011.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 709.
  ) 
 Here is how much of TeX's memory you used:
- 28195 strings out of 493089
- 575322 string characters out of 6134842
- 622155 words of memory out of 5000000
- 30999 multiletter control sequences out of 15000+600000
+ 28188 strings out of 493089
+ 575027 string characters out of 6134842
+ 622203 words of memory out of 5000000
+ 31000 multiletter control sequences out of 15000+600000
  17983 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,23n,56p,10359b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,23n,64p,10359b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/sunhop/Documents/GitHub/Slides/20191011GroupMee/.texpadtmp/GroupMeeting191011.pdf (30 pages, 3849992 bytes).
+Output written on /Users/sunhop/Documents/GitHub/Slides/20191011GroupMee/.texpadtmp/GroupMeeting191011.pdf (30 pages, 3850701 bytes).
 PDF statistics:
- 1415 PDF objects out of 1440 (max. 8388607)
- 1158 compressed objects within 12 object streams
+ 1421 PDF objects out of 1440 (max. 8388607)
+ 1161 compressed objects within 12 object streams
  98 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
