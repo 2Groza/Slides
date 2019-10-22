@@ -93,13 +93,13 @@
 
 
 \title{Bridge the Gap between Deep RL and Human Learning}
-%\subtitle{Toward Self-Awareness in Deep Reinforcement Learning}
+\subtitle{End-of-First-Year Oral Exam}
 \author[Hao SUN]{Hao SUN\inst{*}}
-\institute[MMLab @CUHK]{\inst{*}Dept. Information Engineering @CUHK}
+\institute[MMLab @CUHK]{\inst{*}Dept. Information Engineering @CUHK\and Student ID 1155119006 }
 
 
 
-\date{\today}
+\date{October 24, 2019}
 
 \begin{frame}
 \titlepage
@@ -436,9 +436,8 @@ and the expectation is
 	Accordingly, the optimization of solving goal-oriented reward sparse tasks can be viewed as minimizing the FHT of OU process. From this perspective, \textbf{any action that can reduce the FHT will lead to a better policy}. 
 
 \begin{enumerate}
-	\item Large $\sigma$ in exploration
-	\item Large $\epsilon$ as possible
-	\item Learning all transitions not yet mastered
+	\item Large $\sigma$ in exploration: \textbf{Relation between exploration and action perturbation}
+	\item Large $\epsilon$ as possible: \textbf{Conclusion: Learn all transitions not yet mastered}
 \end{enumerate}
 
 Here is a trade-off problem between (1) and (2), we choose to use linear decayed $\sigma$ in practice.
@@ -685,9 +684,15 @@ In other words, we implicitly bound the feasible region by terminating any new a
 \begin{frame}{Accepted Works}
 
 \begin{itemize}
-\item Policy Continuation with Hindsight Inverse Dynamics (NeurIPS'19)
-\item Policy Continuation and Policy Evolution with Hindsight Inverse Dynamics (NeurIPS'19 OptRL Workshop)
-\item Learning with Identity and Uniqueness through Social Constraints (NeurIPS'19 DeepRL Workshop)
+\item Policy Continuation with Hindsight Inverse Dynamics (NeurIPS'19) \\
+ \textbf{Hao Sun}, Zhizhong Li, Xiaotong Liu, Dahua Lin, Bolei Zhou
+
+\item Policy Evolution with Hindsight Inverse Dynamics (NeurIPS'19 OptRL Workshop)\\
+ \textbf{Hao Sun}, Bo Dai, Rui Xu, Dahua Lin, Bolei Zhou
+
+\item Learning with Identity and Uniqueness through Social Constraints (NeurIPS'19 DeepRL Workshop)\\
+ \textbf{Hao Sun}, Jiankai Sun, Zhenghao Peng, Dahua Lin, Bolei Zhou
+
 \end{itemize}
 %\pause
 \huge{\centerline{Thanks!}}
